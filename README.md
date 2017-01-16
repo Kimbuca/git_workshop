@@ -12,4 +12,6 @@ Integrantes:
 *Cristian
 *Isaac
 
+Cada issue ocupa una branch
+
 - [x] Readme
